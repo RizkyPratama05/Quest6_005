@@ -1,8 +1,10 @@
 package com.example.mvvm.model
 
+import com.example.mvvm.R
+
 object DataJK {
     val jenisK = listOf(
-        "Laki-laki",
-        "Perempuan"
+        R.string.laki,
+        R.string.wanita
     )
 }
